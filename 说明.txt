@@ -1,0 +1,14 @@
+src目录：脚本文件
+
+
+
+
+Scene：场景类
+sprite：精灵
+this:指向本类中的成员
+super:指向父类中的成员
+
+
+
+暂停主循环：cc.director.pause()
+恢复主循环：cc.director.resume()

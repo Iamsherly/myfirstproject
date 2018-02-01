@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	overflow: hidden;
+	/*background: url(../img/login_bg.jpg);*/
+}
+#start{
+	background: url(../img/timg.png);
+	background-size: 100%;
+	text-align: center;	
+}
+#start p{
+	color: #fff;
+	position: fixed;
+	bottom: 10%;
+	left: 0;
+	width: 100%;
+}
+
+
+
+
+#gameCanvas{
+	margin: 0;
+	padding: 0;
+}
